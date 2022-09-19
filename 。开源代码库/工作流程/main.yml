@@ -27,6 +27,6 @@ jobs:
       APP_SECRET: ${{ secrets.APP_SECRET }}
       TEMPLATE_ID:jDF3QAB4mrmYIf7klevgtiWCsQCT1rt8TW01qyjM4GU
       USER_ID: ${{ secrets.USER_ID }}
-      START_DATE: ${{ secrets.START_DATE }}
-      BIRTHDAY: ${{ secrets.BIRTHDAY }}
-      CITY: ${{ secrets.CITY }}
+      START_DATE: 2022.6.7
+      BIRTHDAY: 2003.11.6
+      CITY: lijiang
