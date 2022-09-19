@@ -24,7 +24,7 @@ jobs:
 
     env:
       APP_ID: wx896b943c9b8b7970
-      APP_SECRET: ${{ secrets.APP_SECRET }}
+      APP_SECRET: e42fbf391ff53f8b218724704c840611
       TEMPLATE_ID:jDF3QAB4mrmYIf7klevgtiWCsQCT1rt8TW01qyjM4GU
       USER_ID: ${{ secrets.USER_ID }}
       START_DATE: 2022.6.7
